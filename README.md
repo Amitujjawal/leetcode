@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Amitujjawal/leetcode/tree/master/0258-add-digits) |
 | [1603-design-parking-system](https://github.com/Amitujjawal/leetcode/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Amitujjawal/leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Amitujjawal/leetcode/tree/master/0258-add-digits) |
 ## Stack
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Amitujjawal/leetcode/tree/master/0206-reverse-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Amitujjawal/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
