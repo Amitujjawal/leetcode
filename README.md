@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Amitujjawal/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Amitujjawal/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Amitujjawal/leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Amitujjawal/leetcode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Amitujjawal/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Amitujjawal/leetcode/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/Amitujjawal/leetcode/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Amitujjawal/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Amitujjawal/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Amitujjawal/leetcode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/Amitujjawal/leetcode/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
