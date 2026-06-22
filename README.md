@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Amitujjawal/leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Amitujjawal/leetcode/tree/master/0075-sort-colors) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Amitujjawal/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Amitujjawal/leetcode/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Amitujjawal/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 <!---LeetCode Topics End-->
