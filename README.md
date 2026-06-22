@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Amitujjawal/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Amitujjawal/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Amitujjawal/leetcode/tree/master/0283-move-zeroes) |
+| [0792-number-of-matching-subsequences](https://github.com/Amitujjawal/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Amitujjawal/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Amitujjawal/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amitujjawal/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Amitujjawal/leetcode/tree/master/0268-missing-number) |
+| [0792-number-of-matching-subsequences](https://github.com/Amitujjawal/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Amitujjawal/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amitujjawal/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Amitujjawal/leetcode/tree/master/0268-missing-number) |
+| [0792-number-of-matching-subsequences](https://github.com/Amitujjawal/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Amitujjawal/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amitujjawal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0792-number-of-matching-subsequences](https://github.com/Amitujjawal/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## String
 |  |
 | ------- |
@@ -59,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Amitujjawal/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Amitujjawal/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Amitujjawal/leetcode/tree/master/0412-fizz-buzz) |
+| [0792-number-of-matching-subsequences](https://github.com/Amitujjawal/leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,4 +120,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Amitujjawal/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Amitujjawal/leetcode/tree/master/0268-missing-number) |
+| [0792-number-of-matching-subsequences](https://github.com/Amitujjawal/leetcode/tree/master/0792-number-of-matching-subsequences) |
+## Trie
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/Amitujjawal/leetcode/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
